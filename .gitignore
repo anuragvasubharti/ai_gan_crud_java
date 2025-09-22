@@ -1,0 +1,9 @@
+/target
+*.class
+*.log
+*.iml
+*.pyc
+__pycache__/
+/src/main/resources/static/images/
+.idea
+*.db
